@@ -1,6 +1,6 @@
 # jarek-maleszka
 
-#Hi, I'm Jarek - Coding Extraordinaire (not really)
+Hi, I'm Jarek - Coding Extraordinaire (in progress)
 
 I'm a Chemistry PhD student utilizing code to automate data processing, curve fitting, and scientific problem solving.
 I also build small tools and scripts to keep lab equiptment running efficiently and correctly. Hopefully some of these fixes are useful to you!
